@@ -19,7 +19,7 @@ function Banner() {
       <div className="container">
         <div className="banner-wrapper">
           <div className="banner-img">
-            <img src={images} alt="no image" style={{height:'400px', width:'400px' }} />
+            <img src={images} alt="banner" style={{height:'400px', width:'400px' }} />
           </div>
           <div className="banner-content">
             <h6>Hello, I'm  Pankaj Kumar</h6>
