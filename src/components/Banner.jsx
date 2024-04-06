@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
-import pamkaj from '../components/image/pankaj.jpeg';
+
 import images from '../components/image/images.jpg';
 function Banner() {
  const resume= "http://localhost:3000/yadav.pdf";
